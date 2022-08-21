@@ -1,10 +1,9 @@
 import './App.css';
+import MenuExamplePointing from './components/prueba';
 
 function App() {
   return (
-    <div className="App">
-      
-    </div>
+    <MenuExamplePointing/>
   );
 }
 
