@@ -1,9 +1,9 @@
 import React from "react";
 import { Segment } from "semantic-ui-react";
-import ButtonsExamples from "./Buttons";
-import IconExamples from "./Icons";
-import InputExamples from "./Inputs";
-import ListExamples from "./List";
+import ButtonsExamples from "./components/buttons";
+import IconExamples from "./components/icons";
+import InputExamples from "./components/inputs";
+import ListExamples from "./components/list";
 
 const IndexElements = () => {
   return (

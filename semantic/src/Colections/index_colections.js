@@ -1,9 +1,9 @@
 import React from 'react'
 import { Segment } from 'semantic-ui-react'
-import FormExamples from './Forms'
-import MenuExamples from './Menu'
-import MessageExamples from './Message'
-import TableExamples from './Table'
+import FormExamples from "./components/forms";
+import MenuExamples from "./components/menu";
+import MessageExamples from "./components/message";
+import TableExamples from "./components/table";
 
 const IndexColections = () => {
   return (

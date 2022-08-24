@@ -1,9 +1,9 @@
 import './App.css';
-import MenuExamplePointing from './components/prueba';
+import IndexLogin from './Primary Page/index_login';
 
 function App() {
   return (
-    <MenuExamplePointing/>
+     <IndexLogin />
   );
 }
 
